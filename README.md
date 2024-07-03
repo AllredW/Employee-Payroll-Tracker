@@ -15,7 +15,7 @@ An online application that compiles the names and salaries of employees, compile
 ## Usage
 
 <!-- Add screenshots using the following format: -->
-![An example of this application in use](./assets/Payroll-tracker-thumb.png)
+![An example of this application in use](./assets/images/Payroll-tracker-thumb.png)
 
 ## Contact
 

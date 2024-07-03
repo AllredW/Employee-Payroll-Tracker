@@ -38,7 +38,7 @@ const displayAverageSalary = function (employeesArray) {
   const numberEmployees = employeesArray.length;
 
   for (const employee of employeesArray) {
-    avTotal += employee.salary; 
+    avTotal += employee.salary;             
   }
 
   const avgSalary = avTotal / numberEmployees;
